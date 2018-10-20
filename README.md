@@ -9,7 +9,7 @@ Written in Flask
 
 ## Setup Development
 
-1. Create .env file to overwrite .public .flaskenv
+1. Create `.env` file to overwrite public `.flaskenv` based on `.env-sample`
 
 1. Install dependencies
 
@@ -17,13 +17,9 @@ Written in Flask
     pip install -r requirements.txt
     pip install -r requirements-dev.txt
     ```
-1. Run development server
+1. Go to folder src and run development server and/or tests
    
     ```
     flask run
-    ```
-1. Go to server/ and run tests
-
-    ```
     pytest -vv tests
     ```
