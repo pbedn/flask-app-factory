@@ -3,5 +3,5 @@
 *.pyc
 .idea/**
 .pytest_cache/
-!.idea/runConfigurations/Run_Flask_Server.xml
+!.idea/runConfigurations/Run_Flask.xml
 !.idea/runConfigurations/Run_Tests.xml
