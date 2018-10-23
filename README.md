@@ -27,3 +27,7 @@ Simple API written in Flask using application factory setup and modular structur
     flask run
     pytest -vv tests
     ```
+    
+    ---
+    
+    Ideas for project layout and code are from [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation)
