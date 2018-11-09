@@ -6,7 +6,7 @@ Simple API written in Flask using application factory setup and modular structur
 
 > .env - private environmental variables (secret_key) and flask run env
 
-> config.py - public configuration
+> settings.py - public configuration
 
 ## Setup Development
 
